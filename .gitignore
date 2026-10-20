@@ -1,0 +1,14 @@
+.venv/
+.tmp/
+__pycache__/
+*.py[cod]
+build/
+dist/
+animo_bot_settings.json
+animo_bot_settings.tmp
+log.txt*
+ui_captures/
+ui_debug_last.png
+background_capture_preview.png
+AnimoBot_Background.exe
+AnimoBot_Background_Fix.exe

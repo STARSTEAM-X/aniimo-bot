@@ -1,0 +1,5 @@
+Pillow>=10.0,<13
+pytesseract>=0.3.10,<0.4
+opencv-python-headless>=4.10,<6
+customtkinter>=5.2,<7
+numpy>=2,<3
